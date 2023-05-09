@@ -1,0 +1,1 @@
+# obsidian-admonition-styled-headings
